@@ -126,7 +126,7 @@ const tourDates = [
     day: "11",
     month: "MAR",
     year: "2026",
-    city: "Barueri, SP",
+    city: "Barueri, SP (TESTE)",
     venue: "DanceHall No DZ6",
     name: " Parque Imperial",
     status: "available",
@@ -139,7 +139,7 @@ const tourDates = [
       { type: "Ingresso", price: "R$ 10,00" },
       { type: "VIP ", price: "R$0" },
     ],
-    description: `🚨 ATENÇÃO, GALERA! 🚨
+    description: `🚨 ATENÇÃO, GALERA! Isso é um (TESTE) nenhum evento aqui ainda é real🚨
 
  Vem aí uma noite que promete muita música, energia e diversão! 🔥🎶
  Prepare-se para um show incrível, cheio de momentos marcantes, muita animação e uma vibe que você não vai querer perder.
@@ -153,7 +153,7 @@ Chame seus amigos, reúna a galera e venha viver essa experiência com a gente. 
     day: "20",
     month: "SET",
     year: "2026",
-    city: "Osasco, SP",
+    city: "Osasco, SP (TESTE)",
     venue: "Baile dos sonhos",
     name: "HelenaHall",
     status: "available",
@@ -166,7 +166,7 @@ Chame seus amigos, reúna a galera e venha viver essa experiência com a gente. 
       { type: "General Admission", price: "$35" },
       { type: "VIP Experience", price: "$75" },
     ],
-    description: `🚨 ATENÇÃO, GALERA! 🚨
+    description: `🚨 ATENÇÃO, GALERA! Isso é um (TESTE) nenhum evento aqui ainda é real🚨
 
  Vem aí uma noite que promete muita música, energia e diversão! 🔥🎶
  Prepare-se para um show incrível, cheio de momentos marcantes, muita animação e uma vibe que você não vai querer perder.
@@ -180,7 +180,7 @@ Chame seus amigos, reúna a galera e venha viver essa experiência com a gente. 
     day: "20",
     month: "NOV",
     year: "2026",
-    city: "Barueri, SP",
+    city: "Barueri, SP (TESTE)",
     venue: "Baile do Raffa",
     name: " Bar do Chuck",
     status: "soldout",
@@ -193,7 +193,7 @@ Chame seus amigos, reúna a galera e venha viver essa experiência com a gente. 
       { type: "Ingresso", price: "R$ 10,00" },
       { type: "VIP ", price: "R$0" },
     ],
-    description: `🚨 ATENÇÃO, GALERA! 🚨
+    description: `🚨 ATENÇÃO, GALERA! Isso é um (TESTE) nenhum evento aqui ainda é real 🚨
 
  Vem aí uma noite que promete muita música, energia e diversão! 🔥🎶
  Prepare-se para um show incrível, cheio de momentos marcantes, muita animação e uma vibe que você não vai querer perder.
@@ -207,7 +207,7 @@ Chame seus amigos, reúna a galera e venha viver essa experiência com a gente. 
     day: "02",
     month: "DEZ",
     year: "2026",
-    city: "Cotia, SP",
+    city: "Cotia, SP (TESTE)",
     venue: "Baile do Xav13r",
     name: "Rodeio",
     status: "presale",
@@ -220,7 +220,7 @@ Chame seus amigos, reúna a galera e venha viver essa experiência com a gente. 
       { type: "Ingresso", price: "R$ 10,00" },
       { type: "VIP ", price: "R$0" },
     ],
-    description: `🚨 ATENÇÃO, GALERA! 🚨
+    description: `🚨 ATENÇÃO, GALERA! Isso é um (TESTE) nenhum evento aqui ainda é real 🚨
 
  Vem aí uma noite que promete muita música, energia e diversão! 🔥🎶
  Prepare-se para um show incrível, cheio de momentos marcantes, muita animação e uma vibe que você não vai querer perder.
